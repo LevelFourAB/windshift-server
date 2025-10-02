@@ -1,6 +1,6 @@
 module github.com/levelfourab/windshift-server
 
-go 1.22
+go 1.23
 
 require (
 	github.com/cockroachdb/errors v1.11.3
@@ -18,7 +18,7 @@ require (
 	go.uber.org/fx v1.22.1
 	go.uber.org/zap v1.27.0
 	google.golang.org/grpc v1.65.0
-	google.golang.org/protobuf v1.34.2
+	google.golang.org/protobuf v1.36.10
 )
 
 require (
@@ -40,7 +40,7 @@ require (
 	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
 	github.com/godbus/dbus/v5 v5.0.4 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
-	github.com/google/go-cmp v0.6.0 // indirect
+	github.com/google/go-cmp v0.7.0 // indirect
 	github.com/google/pprof v0.0.0-20240424215950-a892ee059fd6 // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.20.0 // indirect
 	github.com/klauspost/compress v1.17.9 // indirect

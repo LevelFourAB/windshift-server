@@ -54,7 +54,7 @@ require (
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/rogpeppe/go-internal v1.12.0 // indirect
-	github.com/sirupsen/logrus v1.9.0 // indirect
+	github.com/sirupsen/logrus v1.9.1 // indirect
 	github.com/thessem/zap-prettyconsole v0.5.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/runtime v0.52.0 // indirect
 	go.opentelemetry.io/contrib/propagators/autoprop v0.52.0 // indirect
